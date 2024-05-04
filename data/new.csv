@@ -1,0 +1,65 @@
+year,OECD Americas,OECD Europe,China,Other Asia,Latin America,Middle East ,Africa ,Russia,Other Eurasia,supply,OPEC,opec_share,OECD,demand,price,event,sentiment
+1960,7886,319,18,506,3439,5328,282,2683,237,20999,8107,38.6,8215,21396,2,OPEC Founded in 1960. ,neutral
+1961,8156,344,24,513,3589,5710,489,2999,265,22406,8758,39.1,8512,22680,2,"initially, OPEC did not wield its full pricing power as a cartel in the 1960s.",neutral
+1962,8395,366,38,538,3911,6253,808,3365,297,24327,9872,40.6,8777,24590,2,"OPEC members function as a cartel, seeking to maximize their oil sales revenue by adjusting output in light of prevailing world economic conditions and demand.",neutral
+1963,8658,393,44,522,3987,6883,1169,3663,323,26033,10887,41.8,9066,26772,2,"initially, OPEC did not wield its full pricing power as a cartel in the 1960s.",neutral
+1964,8781,425,55,535,4144,7677,1704,4041,357,28140,12321,43.8,9223,28887,1,"initially, OPEC did not wield its full pricing power as a cartel in the 1961s.",neutral
+1965,9031,449,79,568,4249,8421,2217,4397,388,30260,13631,45,9499,31046,1,"initially, OPEC did not wield its full pricing power as a cartel in the 1962s.",neutral
+1966,9613,439,100,564,4211,9385,2813,4795,423,32884,15019,45.7,10076,33514,1,"initially, OPEC did not wield its full pricing power as a cartel in the 1963s.",neutral
+1967,10250,460,120,611,4487,10052,3122,5210,460,35374,16025,45.3,10745,35639,1,"initially, OPEC did not wield its full pricing power as a cartel in the 1964s.",neutral
+1968,10626,477,100,731,4601,11273,3962,5575,492,38349,17854,46.6,11154,38803,1,"initially, OPEC did not wield its full pricing power as a cartel in the 1965s.",neutral
+1969,10901,494,145,881,4600,12459,5052,5948,525,41678,19845,47.6,11452,42245,1,"initially, OPEC did not wield its full pricing power as a cartel in the 1966s.",neutral
+1970,11421,467,210,1011,4718,13779,6032,6316,557,45198,22277,49.3,12072,46231,1,"initially, OPEC did not wield its full pricing power as a cartel in the 1967s.",neutral
+1971,11483,438,327,1093,4597,16164,5690,6662,588,47901,24109,50.3,12266,48602,2,U.S. spare capacity exhausted,rise
+1972,11542,450,526,1353,4356,17942,5684,7034,621,50396,25592,50.8,12347,52212,2,OPEC gains increasing influence in global oil markets.,rise
+1973,11456,462,646,1692,4635,21053,5888,7543,666,55033,29023,52.7,12355,56497,3,"In retaliation for U.S support of Israel in the Yom Kippur War of 1973, oil-producing Arab nations cut off crude exports to the U.S. As a result, the price of crude oil soared from about $24 to $56 per barrel by early 1974",rise
+1974,10996,467,962,1763,4213,21705,5382,8212,725,55416,28828,52,11885,55667,11,Embargo lifted,rise
+1975,10504,616,1451,1655,3545,19438,4945,8802,777,52749,25413,48.2,11549,55691,10,OPEC countries experience a period of high revenue due to increased oil prices.,fall
+1976,10217,901,1653,1836,3510,22046,5894,9281,819,57190,28724,50.2,11566,59195,12,OPEC announces price increases for crude oil.,rise
+1977,10528,1410,1781,2119,3517,22222,6277,9791,864,59580,29152,48.9,12393,61718,13,OPEC introduces new production quotas to manage global oil supply,rise
+1978,11183,1766,1917,2129,3539,21112,6066,10229,903,59943,27681,46.2,13403,64087,13,Iranian Revolution,neutral
+1979,11437,2307,2129,2158,3775,21532,6584,10488,926,62427,28801,46.1,14203,65098,32,"The pro-Western Shah fled Iran in January of 1979, with the anti-Western Grand Ayatollah Ruhollah Khomeini emerging as the leader of an Islamist government that takes control. A sharp drop in Iranian production as a result of the political unrest sent crude oil prices even higher than during the Arab oil embargo. ",rise
+1980,11856,2495,2169,2169,3609,18344,6061,10760,950,59386,24835,41.8,14739,62927,38,Official start of Iran-Iraq war,rise
+1981,12081,2692,2012,2137,3600,15555,4635,10907,963,55665,20518,36.9,15174,61065,37,OPEC experiences internal disagreements over production quotas.,fall
+1982,12568,2949,2008,1823,3458,12929,4401,11002,971,53282,17441,32.7,15905,59511,33,OPEC faces challenges from non-OPEC oil production.,fall
+1983,12588,3320,2102,1810,3386,11149,4448,11045,975,52091,15521,29.8,16338,59155,29.83,OPEC adjusts production levels to stabilize oil prices.,fall
+1984,12872,3661,2262,1923,3455,10517,4635,10961,967,52695,14809,28.1,17038,60333,28.8,OPEC countries implement measures to control oil market volatility.,fall
+1985,12886,3814,2443,1842,3432,9728,4888,10695,944,52254,13966,26.7,17280,60175,27.33,OPEC countries face declining oil prices due to oversupply.,fall
+1986,12269,3894,2553,1992,3600,12117,5155,11016,953,55031,16661,30.3,16646,61916,14.77,Saudis abandon swing producer role,fall
+1987,12155,4030,2666,1847,3500,11985,4805,11153,966,54606,16000,29.3,16712,63329,18.34,OPEC adopts new strategies to manage oil production.,rise
+1988,11952,4017,2720,1900,3583,14242,4951,11095,973,56903,18198,32,16475,65262,14.97,OPEC reviews pricing policies amid changing global economic conditions,fall
+1989,11372,3885,2760,1997,3811,15192,5544,10818,948,57758,19667,34.1,15728,66277,18.22,Exxon Valdez oil spill,rise
+1990,11130,4059,2766,2165,4304,16074,5967,10100,930,58976,21220,36,15729,66677,23.68,"Iraq invades Kuwait. In August 1990, Iraq invaded Kuwait, sending the price of oil soaring from about $34 per barrel to nearly $77. After a U.S.-led military coalition succeeded in removing Saddam Hussein's Iraqi forces from Kuwait in early 1991, the price fell to about $37",rise
+1991,11305,4294,2805,2349,4431,15894,6214,9021,908,58571,21357,36.5,16106,67091,20.07,Iraq accepts UN resolution to end conflict,fall
+1992,11090,4550,2814,2360,4588,17526,6316,7754,889,59140,23092,39,16129,67446,19.31,OPEC countries implement production cuts to support oil prices.,fall
+1993,10831,4795,2924,2404,4662,18296,6155,6911,828,58992,23520,39.9,16073,67631,17.02,OPEC faces challenges from rising non-OPEC oil production,fall
+1994,10717,5544,2942,2424,4852,18834,6111,6184,802,59715,23928,40.1,16739,68581,15.83,OPEC faces challenges from rising non-OPEC oil production,fall
+1995,10580,5784,2996,2517,5081,18916,6253,6034,822,60321,24022,39.8,16798,69755,17.07,OPEC implements measures to stabilize oil prices amid geopolitical tensions.,rise
+1996,10733,6153,3173,2518,5281,19106,6416,5862,890,61459,24313,39.6,17351,71346,20.65,OPEC countries negotiate production agreements with non-OPEC nations,rise
+1997,10897,6175,3254,2455,5445,19822,6570,5956,966,62909,25075,39.9,17568,73430,19.09,Asian financial crisis begins,fall
+1998,10758,6075,3207,2498,6389,21154,6651,5886,1035,64944,27194,41.9,17281,73705,12.72,OPEC faces pressure to maintain market share amid rising non-OPEC oil supply.,fall
+1999,10141,6149,3212,2431,6209,20296,6268,5906,1152,63036,25662,40.7,16728,75523,17.81,OPEC cuts production target by 1.7M b/d,rise
+2000,10232,6291,3228,2549,6297,21450,6710,6246,1228,65687,27227,41.5,17160,76419,28.27,OPEC implements production cuts to support oil prices.,rise
+2001,10313,6043,3297,2508,6194,20824,6601,6727,1383,65275,26459,40.5,16928,77167,24.42,9/11 attacks,fall
+2002,10373,5958,3393,2482,6291,18693,6403,7402,1516,63872,24224,37.9,16863,77857,24.97,OPEC countries face challenges from increasing non-OPEC oil production.,fall
+2003,10483,5640,3407,2575,6175,20446,7266,8122,1626,66986,26691,39.8,16544,79566,28.85,rising global demand,rise
+2004,10233,5386,3485,2588,6585,21995,8327,8803,1714,70297,29534,42,15961,82699,38.3,rising global demand,rise
+2005,9881,4915,3617,2474,6813,22720,8758,9045,1826,71193,30772,43.2,15140,84119,54.43,Low spare capacity,rise
+2006,9690,4508,3674,2420,6836,22913,8845,9242,2086,71328,31014,43.5,14532,85433,65.39,rising global demand,rise
+2007,9546,4324,3736,2270,6752,22308,8980,9437,2302,70812,30515,43.1,14244,86766,72.7,rising global demand,rise
+2008,9149,4053,3802,2280,6835,23142,9186,9356,2427,71409,31506,44.1,13615,86164,97.64,"global financial collapse. In 2008, a series of events that cut global production sharply led to a significant spike in oil prices. Venezuela cut off sales to Exxon Mobil in a legal battle over nationalization of that company's properties. Exports from Iraq had not recovered from the most recent war in the region, and labor strikes reduced production in Nigeria and the U.K.'s North Sea oil fields. Militants blew up oil facilities and pipelines in Nigeria. Mexico endured a severe decline in production from one of its major oil fields.In May 2008, Indonesia announced that it would leave OPEC when its membership expired at the end of that year, having become a net importer of oil and being unable to meet its production quota.production dispute occurred when the Saudis reportedly walked out of a negotiating session where rival members voted to reduce OPEC output. Although Saudi delegates officially endorsed the new quotas, they stated anonymously that they would not observe them",rise
+2009,9178,3824,3795,2253,6884,20869,8446,9493,2660,68525,28492,41.6,13379,84994,61.86,Falling Global Demand OPEC cuts production targets. Oil sank to the low $50s per barrel by January 2009 before rebounding to nearly $95 by year-end as the global economy recovered.,fall
+2010,9292,3531,4076,2193,7068,21031,8646,9694,2682,69426,28830,41.5,13212,87660,79.64,rising global demand,rise
+2011,9492,3192,4052,2100,7254,23005,7396,9787,2573,70042,29647,42.3,13014,88801,110.94,Libyan Civil War in 2011,rise
+2012,10386,2888,4074,2125,7153,24107,8126,9953,2482,72469,31925,44.1,13598,89887,111.97,OPEC focuses on market stability ,neutral
+2013,11408,2732,4164,2026,7176,23845,7526,10047,2547,72577,31025,42.7,14390,91361,108.86," Fracking returned the U.S. to the status of one of the world's biggest oil producers, reducing U.S. demand for imported oil and turning the U.S. into a net exporter. At its peak, the Permian Basin region of Texas and New Mexico has produced more crude oil than most OPEC nations.",fall
+2014,12629,2758,4208,1985,7312,23511,7055,10087,2490,73172,30075,41.1,15665,92486,98.94,Falling global demand. supply gut price collapse. OPEC faces pressure from rising U.S. shale oil production.,fall
+2015,12976,2899,4288,2084,7450,24501,7019,10111,2454,74895,31062,41.5,16132,94488,52.37,OPEC production quota unchanged despite low prices. The US lifts oil export ban that has been in place to strategically protect domestic oil reserves.,fall
+2016,12190,2928,3986,2090,7067,26612,6518,10292,2389,75097,32467,43.2,15322,96115,44.05,U.S. oil and gas output increased as advances in fracking technology unlocked vast reserves in various areas of the country.,fall
+2017,12524,2875,3821,1989,6765,25697,6862,10190,2478,74190,31636,42.6,15579,97941,54.39,OPEC extends production cuts to stabilize oil prices.,neutral
+2018,14039,2862,3787,1886,6207,25731,6946,10355,2560,75297,31217,41.5,17046,99199,71.07,rising demand,rise
+2019,15300,2775,3825,1825,5961,24171,7133,10390,2533,74819,29376,39.3,18239,100275,64.03,OPEC faces pressure from rising U.S. shale oil production.,fall
+2020,14181,2977,3889,1686,5536,22043,5857,9409,2344,68786,25659,37.3,17321,91190,42.3,COVID-19 declared a pandemic. falling global demand,fall
+2021,14105,2902,3988,1560,5575,22234,6199,9619,2336,69346,26363,38,17151,97076,70.44,"OPEC+ countries adjust production targets amid global economic recovery. OPEC+ could extend oil cuts, formal talks yet to start,",rise
+2022,14744,2724,4094,1451,6027,25094,5858,9756,2260,72801,28895,39.7,17597,99565,99.82,Russia invades Ukraine,rise
+2023,,,,,,,,,,,,,,,,,
